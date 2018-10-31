@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="synXLIFF">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1603548920 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1603548920 - Field 622995294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field Language (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1603548920 - Field 335949917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Elements</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field No. of Elements - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Project Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 1122276591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Text (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 4103996402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Text (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Full Text (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 2363769894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hash (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Hash (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 1600575792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Length (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 1418569422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Object Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 2690345240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Width</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Max. Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Project Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 1966280845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Element Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Element Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 2681525884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Language (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 3606065433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Text (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 1825023152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Text (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Full Text (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 2147042468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hash (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Hash (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 4005172674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Length (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 622995294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Language (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 1122276591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Text (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 2363769894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hash (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Hash (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 1418569422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Object Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 2690345240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max. Width</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Max. Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Method 1096446099 - NamedType 2612125169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The max. width for this element is %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Method SetTranslation - NamedType MaxWidthErr</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Method 266206685 - NamedType 494794924" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A default translation for "%1" does already exist. Do you realy want to change the existing translation?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Method SaveAsDefaultTranslation - NamedType ChangeDefaultTranslationQst</note>
+        </trans-unit>
+        <trans-unit id="Table 3674074555 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Note - Field Project Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3674074555 - Field 1966280845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Element Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Note - Field Element Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3674074555 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Note - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3674074555 - Field 1958180954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Note - Field From - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3674074555 - Field 361882995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Annotates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Note - Field Annotates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3674074555 - Field 4130293374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priority</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Note - Field Priority - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3674074555 - Field 2898143332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Note - Field Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 482543933 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Language - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 482543933 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Language - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 482543933 - Field 1642691993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert by Default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Language - Field Insert by Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 482543933 - Method 3152277940 - NamedType 4006770293" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The language %1 can't be deleted because it's used in projects.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Language - Method OnDelete - NamedType LanguageInUseErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1725369714 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Field Project Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1725369714 - Field 2273653569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Field Language Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1725369714 - Field 696461927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Field Language Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 595008945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Code (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Language Code (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 1122276591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Text (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 4103996402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Text (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Full Text (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 2363769894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hash (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Hash (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 1600575792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length (Original)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Length (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 2681525884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Language (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 3606065433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Text (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 1825023152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full Text (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Full Text (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 2147042468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hash (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Hash (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1384577075 - Field 4005172674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Length (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Length (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3872426770" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Czech (Czech Republic)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType csCZNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3155858047" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Danish (Denmark)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType daDKNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 4245229797" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>German (Austria)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType deATNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2512926455" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>German (Switzerland)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType deCHNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2733439225" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>German (Germany)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType deDENameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 1911276916" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>English (Australia)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType enAUNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3691169362" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>English (Canada)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType enCANameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3412627171" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>English (United Kingdom)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType enGBNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2953792108" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>English (New Zealand)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType enNZNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2784930214" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>English (United States)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType enUSNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 1004287713" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>English (South Africa)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType enZANameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3580651993" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spanish (Spain)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType esESNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2753778536" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Spanish (Mexico)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType esMXNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 1403253338" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Estonian (Estonia)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType etEENameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2893876569" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finnish (Finland)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType fiFINameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3676616" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>French (Belgium)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType frBENameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2489954019" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>French (Canada)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType frCANameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 1209220908" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>French (Switzerland)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType frCHNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 497347529" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>French (France)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType frFRNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 1383637449" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Croatian (Croatia)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType hrHRNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3102308521" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Icelandic (Iceland)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType isISNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2524953003" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Italien (Switzerland)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType itCHNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 802471289" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Italian (Italy)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType itITNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2439627850" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Japanese (Japan)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType jaJPNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3598991270" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Korean (Korea)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType koKRNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2755133545" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lithuanian (Lithuania)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType ltLTNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3003341001" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latvian (Latvia)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType lvLVNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2343482790" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Norwegian (Bokmål) (Norway)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType nbNONameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3032005454" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dutch (Belgium)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType nlBENameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2776357737" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dutch (Netherlands)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType nlNLNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3149990313" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Polish (Poland)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType plPLNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3179060393" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Portuguese (Portugal)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType ptPTNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 295152057" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Russian (Russia)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType ruRUNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 882388926" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Slovenian (Slovenia)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType slSINameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 1684967332" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serbian (Latin) (Serbia)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType srLatnRSNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 3551446488" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Swedish (Sweden)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType svSENameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2309859292" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chinese (Simplified) (People's Republic of China)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType zhCNNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1574607988 - NamedType 2902906954" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chinese (Taiwan)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType zhTWNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 3673933034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>synXLIFF Projects</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3673933034 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Related Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project List - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3673933034 - Action 2197396733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project List - Action ImportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3673933034 - Action 2665042526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project List - Action ExportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3673933034 - Action 1492458240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project List - Action ProjectLanguages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3673933034 - Action 1750020835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project List - Action Languages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3673933034 - Action 1061956357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Translations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project List - Action DefaultTranslations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>synXLIFF Project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Related Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Control 2081108517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language (Translation)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Control TargetLanguage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Action 2197396733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Action ImportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Action 2665042526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Action ExportFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Action 1492458240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Action ProjectLanguages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Action 1750020835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Action Languages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1051503340 - Action 1061956357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Translations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Card - Action DefaultTranslations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1794915203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Translations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1794915203 - Action 3461750827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Translations - Action ShowDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1794915203 - Action 2820589166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hide Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Translations - Action HideDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1794915203 - Action 1008287925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Save selection as default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Translations - Action SaveSelectionAsDefaultTranslation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1794915203 - Action 1008287925 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Save selected rows as default translations.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Translations - Action SaveSelectionAsDefaultTranslation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1057456788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>synXLIFF Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Languages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3295040767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>synXLIFF Project Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Project Languages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2788928286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>synXLIFF Default Translations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Default Translations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3685894148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Edit Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3685894148 - Control 2204824626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Edit Text - Control GroupOriginal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3685894148 - Control 2497809160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Edit Text - Control GroupTranslation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3685894148 - Method 4177352842 - NamedType 204433203" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have to enter a original text.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Edit Text - Method OnQueryClosePage - NamedType OriginalTextErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3685894148 - Method 4177352842 - NamedType 1502953765" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have to enter a translation text.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Edit Text - Method OnQueryClosePage - NamedType TranslationTextErr</note>
+        </trans-unit>
+        <trans-unit id="Enum 2121287477 - EnumValue 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Element Status - EnumValue New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2121287477 - EnumValue 2299938371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unchanged</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Element Status - EnumValue Unchanged - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2121287477 - EnumValue 2052431574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Removed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Element Status - EnumValue Removed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3368958754 - EnumValue 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Translation Status - EnumValue New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3368958754 - EnumValue 2498918022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Translation Status - EnumValue Translated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3368958754 - EnumValue 3720531126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Changed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Translation Status - EnumValue Changed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3368958754 - EnumValue 2052431574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Removed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Translation Status - EnumValue Removed - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
