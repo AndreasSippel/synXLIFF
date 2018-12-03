@@ -15,3 +15,13 @@ Also if your language is still missing you can create a pull request with the tr
 
 - fixed an issue with actions that were not shown
 - fixed an error when importing file with "maxwidth" attribute
+
+#### Version 1.0.0.3 (coming soon)
+
+- added support for files which where already translated before using Dynamics LCS
+- synXLIFF now automatically checks for a new version on a daily base
+  - the check is executed OnOpenPage synXLIFF Project List
+  - in the new setup table you can:
+    - deactivate the automatic check
+    - check manually for updates if you want to
+  
