@@ -3,6 +3,30 @@
   <file datatype="xml" source-language="en-US" target-language="de-DE" original="synXLIFF">
     <body>
       <group id="body">
+        <trans-unit id="Codeunit 1072554165 - Method 1148960746 - NamedType 1304771032" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A new version of synXLIFF is available</source>
+          <target>Eine neue Version von synXLIFF ist verfügbar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Version Mgt. - Method ShowNotification - NamedType NotificationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072554165 - Method 1148960746 - NamedType 1780211212" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target>Download</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Version Mgt. - Method ShowNotification - NamedType DownloadNewVersionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072554165 - Method 1148960746 - NamedType 2887211527" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change log</source>
+          <target>Änderungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Version Mgt. - Method ShowNotification - NamedType ViewChangeLogLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072554165 - Method 1148960746 - NamedType 661921823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remind me later</source>
+          <target>Später erinnern</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Version Mgt. - Method ShowNotification - NamedType RemindLaterLbl</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1574607988 - NamedType 1004287713" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
           <source>English (South Africa)</source>
           <target>English (Südafrika)</target>
@@ -369,6 +393,48 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Default Translations - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2995670002 - Action 1132106553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show change log</source>
+          <target>Änderungen anzeigen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Action ViewChangeLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2995670002 - Action 2302886566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download new version</source>
+          <target>Neue Version herunterladen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Action DownloadNewVersion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2995670002 - Action 3614537374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check version</source>
+          <target>Version überprüfen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Action CheckVersionNow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2995670002 - Control 1606356134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available app version</source>
+          <target>Verfübare App-Version</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Control Available App Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2995670002 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2995670002 - Control 737428302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current app version</source>
+          <target>Aktuelle App-Version</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Control Current App Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2995670002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>synXLIFF Setup</source>
+          <target>synXLIFF Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3295040767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>synXLIFF Project Languages</source>
           <target>synXLIFF Projektsprachen</target>
@@ -602,6 +668,24 @@
           <target>Sprachename</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Field Language Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2995670002 - Field 1383264250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version last checked on</source>
+          <target>Version zuletzt überprüft am</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Setup - Field Version last checked on - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2995670002 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primärschlüssel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2995670002 - Field 952723203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automatic version check enabled</source>
+          <target>Automatische Versionsüberprüfung aktiviert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Setup - Field Version Check Enabled - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3674074555 - Field 1958180954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>From</source>
