@@ -7,7 +7,7 @@ Download link: https://www.synalis.de/synxliff/
 If you encounter any problems regarding a translation of synXLIFF feel free to create a pull request.
 We will then look into it.
 
-Also if your language is still missing you can create a pull request with the translatet xliff file.
+Also if your language is still missing you can create a pull request with the translated xliff file.
 
 ### Changelog
 
@@ -20,7 +20,7 @@ Also if your language is still missing you can create a pull request with the tr
 
 - added support for files which where already translated before using Dynamics LCS
 - synXLIFF now automatically checks for a new version on a daily base
-  - the check is executed OnOpenPage synXLIFF Project List
+  - the check is executed "OnOpenPage" on "synXLIFF Project List"
   - in the new setup table you can:
     - deactivate the automatic check
     - check manually for updates if you want to
