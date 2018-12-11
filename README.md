@@ -28,5 +28,5 @@ Also if your language is still missing you can create a pull request with the tr
 #### Version 1.0.1.1
 
 - the export now only exports translated items. This assures that if an item is not translated the default translation is used by BC.
-- the "&" symbol is now replaced with "&amp;" during export.
+- the "&" symbol is now replaced with "\&amp;" during export.
 - fixed some display problems with the translation language on the project page.
