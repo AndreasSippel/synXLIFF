@@ -268,6 +268,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Field Language Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1725369714 - Method 3152277940 - NamedType 3923984382" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are already translations for this language wich will be deleted as well. Do you want to proceed?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Method OnDelete - NamedType TranslationsWillBeDeletedQst</note>
+        </trans-unit>
         <trans-unit id="Table 1384577075 - Field 595008945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Language Code (Original)</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -687,6 +692,11 @@
           <source>Removed</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Element Status - EnumValue Removed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2121287477 - EnumValue 2339977023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Element Status - EnumValue Updated - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 3368958754 - EnumValue 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>New</source>

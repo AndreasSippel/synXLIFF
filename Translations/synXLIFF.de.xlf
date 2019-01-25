@@ -52,7 +52,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType etEENameTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 1574607988 - NamedType 1684967332" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Serbian (Latin) (Serbia)</source>
+          <source>Serbian (Latin) (Serbia)</source>
           <target>Serbisch (Lateinisch, Serbien)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit synXLIFF Initialize Languages - NamedType srLatnRSNameTxt</note>
@@ -266,6 +266,12 @@
           <target>Unverändert</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Element Status - EnumValue Unchanged - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2121287477 - EnumValue 2339977023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updated</source>
+          <target>Geändert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum synXLIFF Element Status - EnumValue Updated - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2121287477 - EnumValue 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>New</source>
@@ -668,6 +674,12 @@
           <target>Sprachename</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Field Language Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1725369714 - Method 3152277940 - NamedType 3923984382" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are already translations for this language wich will be deleted as well. Do you want to proceed?</source>
+          <target>Für diese Sprache existieren schon Übersetzungen. Diese werden ebenfalls gelöscht. Dennoch fortfahren?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project Language - Method OnDelete - NamedType TranslationsWillBeDeletedQst</note>
         </trans-unit>
         <trans-unit id="Table 2995670002 - Field 1383264250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Version last checked on</source>
