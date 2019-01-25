@@ -11,6 +11,14 @@ Also if your language is still missing you can create a pull request with the tr
 
 ### Changelog
 
+#### Version 1.0.2.0
+
+- if a project language is deleted, all translations for this project and language are now deleted as well
+- auto translation now translates only for the current project language
+- the translation assist edit should now always have the correct translation text
+- if a caption is changed in the code and import the global file again, the translation gets the status "changed" 
+- TableExtension and PageExtension were added to the object types
+
 #### Version 1.0.1.2
 
 - fixed a problem with importing option captions with a leading whitespace
