@@ -11,6 +11,11 @@ Also if your language is still missing you can create a pull request with the tr
 
 ## Changelog
 
+### Version 1.0.3.1
+
+- You can now see the number of missing translations at project level. [#6](/../../issues/6)
+- Object-Type "XMLPort" should be recognised again. [#21](/../../issues/21)
+
 ### Version 1.0.3.0
 
  - the default export file name should now have the full language code. ("fr-ca" instead of "fr") [#20](/../../issues/20)
