@@ -561,6 +561,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Project Code - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 3846472926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locked</source>
+          <target>Gesperrt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Locked - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1369734857 - Field 4103996402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Full Text (Original)</source>
           <target>Vollständiger Text (Original)</target>
@@ -638,6 +644,18 @@
           <target>Sprache (Original)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Default Translation - Field Language Code (Original) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1603548920 - Field 1737107038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missing Translations Language Filter</source>
+          <target>Fehlende Übersetzungen Spachfilter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field Missing Trans. Lang. Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1603548920 - Field 2796415006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of missing Translations</source>
+          <target>Anzahl fehlende Übersetzungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field No. of missing Translations - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1603548920 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
@@ -830,6 +848,12 @@
           <target>Text (Übersetzung)</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Text (Translation) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 3846472926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locked</source>
+          <target>Gesperrt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Locked - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 772458134 - Field 4005172674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Length (Translation)</source>

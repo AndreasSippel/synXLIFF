@@ -68,6 +68,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field No. of Elements - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1603548920 - Field 2796415006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of missing Translations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field No. of missing Translations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1603548920 - Field 1737107038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missing Translations Language Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Project - Field Missing Trans. Lang. Filter - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1369734857 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Project Code</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -117,6 +127,11 @@
           <source>Max. Width</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Max. Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 3846472926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Locked - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 772458134 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Project Code</source>
@@ -187,6 +202,11 @@
           <source>Max. Width</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Max. Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 772458134 - Field 3846472926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Translation - Field Locked - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 772458134 - Method 1096446099 - NamedType 2612125169" size-unit="char" translate="yes" xml:space="preserve">
           <source>The max. width for this element is %1.</source>
