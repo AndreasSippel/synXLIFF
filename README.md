@@ -11,6 +11,11 @@ Also if your language is still missing you can create a pull request with the tr
 
 ## Changelog
 
+### Version 1.0.3.2
+
+- Translationfiles from BC Version 15 should work again [#24](/../../issues/24)
+- Fixed a bug with languages when creating a new company [#23](/../../issues/23)
+
 ### Version 1.0.3.1
 
 - You can now see the number of missing translations at project level. [#6](/../../issues/6)
