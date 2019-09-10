@@ -53,6 +53,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Action DownloadNewVersion - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2995670002 - Action 383363571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initialize Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Action InitializeLanguages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2995670002 - Action 383363571 - Method 1377591017 - NamedType 1028665363" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Languages initialized successfully!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page synXLIFF Setup - Action InitializeLanguages - Method OnAction - NamedType LanguageInitializationFinishedMsg</note>
+        </trans-unit>
         <trans-unit id="Table 1603548920 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -132,6 +142,11 @@
           <source>Locked</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Locked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1369734857 - Field 3761771819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Al Object Target</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table synXLIFF Element - Field Al Object Target - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 772458134 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Project Code</source>
